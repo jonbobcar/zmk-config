@@ -12,7 +12,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: lizard-5x12-nicenano
-      remote: lizard-5x12-nicenano_base
+      remote: lizard-5x12-nicenano
       revision: main
   self:
     path: config
