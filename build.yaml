@@ -21,3 +21,5 @@
 include:
   - board: nice_nano_v2
     shield: naked60
+  - board: nice_nano_v2
+    shield: lizard-5x12-nicenano
